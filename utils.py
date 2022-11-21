@@ -28,6 +28,6 @@ class IrisSpecies():
         prediction = self.enc['target'][str(test_pred)]
 
         return prediction
-
+print("chonde")
 
         
